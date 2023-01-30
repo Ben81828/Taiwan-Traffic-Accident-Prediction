@@ -1,5 +1,9 @@
 ## 這是一個預測特定地點發生車禍可能性的練習(資策會期末專題)
 
+(簡報連結:
+https://www.canva.com/design/DAFXVkR1a7w/AhJU1-OlTXPciIYmj31jSw/view?utm_content=DAFXVkR1a7w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+)
+
 *資料清整流程*
 
 > 1.下載車禍資料、各縣市行政區人口密度、車流量資料。用爬蟲爬取天氣資料、台灣道路經緯度資料。
